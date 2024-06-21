@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.header-container {
+  background-color: #cbd5e1;
+  display: flex;
+  justify-content: center;
+  padding: 30px;
+  width: 75%;
+  margin: 10px;
+}
+.header-heading {
+  font-family: 'Roboto';
+  color: #475569;
+  margin: 0px;
+}
